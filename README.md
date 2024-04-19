@@ -1,4 +1,4 @@
-<h2>Olá, sou Nicolas Weverton! 👋</h2>
+<h3>Olá, sou Nicolas Weverton! 👋</h3>
 https://nicolasweverton.com
 <br>
 <br>
